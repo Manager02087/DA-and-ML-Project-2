@@ -44,7 +44,6 @@ This project explores the critical differences between **Exploratory Data Analys
 ├── data/
 │   └── ecommerce_sales_data.csv       # Dataset (100k records)
 ├── notebooks/
-│   ├── 01_EDA_Analysis.ipynb          # Data cleaning & exploration
-│   └── 02_ML_Modeling.ipynb           # Model training & evaluation
+│   ├── EST_Project2.ipynb             # Final code
 ├── reports/
 │   └── Final_Project_Report.pdf       # 6-10 page comprehensive report
